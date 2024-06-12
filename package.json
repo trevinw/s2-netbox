@@ -1,0 +1,23 @@
+{
+  "name": "s2-netbox",
+  "version": "1.0.0",
+  "description": "Library to interface with the S2 Netbox access control system API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevinw/s2-netbox.git"
+  },
+  "author": {
+    "name": "Trevin Wilkinson",
+    "email": "Trevin.Wilkinson@gmail.com",
+    "url": "https://trevinw.info"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trevinw/s2-netbox/issues"
+  },
+  "homepage": "https://github.com/trevinw/s2-netbox#readme"
+}
