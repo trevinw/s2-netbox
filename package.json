@@ -4,6 +4,7 @@
   "description": "Library to interface with the S2 Netbox access control system API",
   "main": "index.js",
   "scripts": {
+    "dev": "tsx watch src/main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/trevinw/s2-netbox/issues"
   },
-  "homepage": "https://github.com/trevinw/s2-netbox#readme"
+  "homepage": "https://github.com/trevinw/s2-netbox#readme",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "tsx": "^4.15.2",
+    "typescript": "^5.4.5"
+  }
 }
